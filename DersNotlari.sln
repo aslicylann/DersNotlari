@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DersNotlari", "DersNotlari\DersNotlari.csproj", "{9543B312-08A6-4906-9156-20534D345536}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gazi.Döngüler", "Gazi.Döngüler\Gazi.Döngüler.csproj", "{FE1243F3-203A-42AA-AF84-42A22DD472E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9543B312-08A6-4906-9156-20534D345536}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9543B312-08A6-4906-9156-20534D345536}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9543B312-08A6-4906-9156-20534D345536}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9543B312-08A6-4906-9156-20534D345536}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE1243F3-203A-42AA-AF84-42A22DD472E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE1243F3-203A-42AA-AF84-42A22DD472E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE1243F3-203A-42AA-AF84-42A22DD472E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE1243F3-203A-42AA-AF84-42A22DD472E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21877C11-B943-490D-893D-7CF700DC97EB}
+	EndGlobalSection
+EndGlobal
